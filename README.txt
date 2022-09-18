@@ -14,7 +14,7 @@ To build this simulator, you will need access to a Linux command line. Use the c
 
 And use this line to run the simulator (make sure to add the .txt file as the argument):
 	
-	./sim topology#.txt #(of cycles)
+	./sim topology#.txt #(duration)
 
 Be sure to include the .txt file in the Computer_Networks_Project_1 folder or the program will not find the file to read.
 The topology1-3.txt files are included as test with variable sized topologies.
